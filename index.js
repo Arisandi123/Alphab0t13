@@ -160,8 +160,8 @@ var nomor_ovo = `0887435047326\nA.N R*****DI` //gk usah di ubah ya klo gk punya 
 var nomor_dana = `0887435047326\nA.N R*****DI` //gk usah di ubah ya klo gk punya ntr eror
 var nomor_gopay = `0887435047326\nA.N R*****DI` //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_ovo = 'https://h.top4top.io/p_2053vk0uw1.jpg' //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_dana = 'https://j.top4top.io/p_20532posd1.jpg' //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_gopay = 'https://i.top4top.io/p_2053em3vh1.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_dana = 'https://h.top4top.io/p_2181993ci0.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_gopay = 'https://i.top4top.io/p_2181xeop91.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
 var _minggu = 'Rp 1.000,00' //Masukkan harga sewa sesuai keinginan
 var __minggu = 'Rp 5.000,00'
